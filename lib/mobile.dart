@@ -4,6 +4,9 @@ import 'package:udemy_responsive/adaptive/adaptive_indicator.dart';
 import 'package:udemy_responsive/constants.dart';
 
 class MobileScreen extends StatelessWidget {
+  // hello
+  // hello 2
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
